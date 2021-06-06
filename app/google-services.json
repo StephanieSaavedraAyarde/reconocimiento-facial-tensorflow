@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984849257255",
+    "project_id": "tface-face-recognition",
+    "storage_bucket": "tface-face-recognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984849257255:android:82ecda14893864be94cf02",
+        "android_client_info": {
+          "package_name": "com.example.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984849257255-2ieqc3eb0i56h7e2u9pusuakhi5o9raf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6KkAzAoPrNUV5h0kvXmTq1ou8KVHGCmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984849257255-2ieqc3eb0i56h7e2u9pusuakhi5o9raf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
